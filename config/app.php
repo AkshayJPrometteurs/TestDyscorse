@@ -55,7 +55,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => 'https://admin.lakshyatheapp.com',
 
     'asset_url' => env('ASSET_URL'),
 
